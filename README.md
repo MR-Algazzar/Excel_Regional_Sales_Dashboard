@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard Project
+# 📊 Excel Regional Sales Dashboard
 
 An advanced, interactive Excel sales dashboard built to track key performance indicators, analyze regional sales trends, evaluate product performance, and deliver actionable business intelligence.
 
