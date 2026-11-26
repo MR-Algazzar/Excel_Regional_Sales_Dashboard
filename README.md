@@ -79,3 +79,10 @@ The dashboard tracks 4 core performance indicators to provide a consolidated ove
 3. Navigate to the **Dashboard** worksheet to access the interactive reporting interface.
 4. Use the interactive year and region slicers to filter and explore sales performance.
 5. Analyze the KPI cards, regional and category visualizations, and monthly sales trends to explore the underlying sales data.
+
+## 🎓 Learning Resource
+This project was developed with reference to the following Excel dashboard tutorial:
+
+**Build an Interactive Excel Dashboard Using PivotTables**
+
+[Watch the tutorial on YouTube](https://youtu.be/fhVXfSjLb6I?si=JW6-nCz6t3PbT9Xn)
